@@ -6,5 +6,7 @@ https://github.com/adann6/Presence.git
 npm install
 ```
 ```
-main.js
+node.js
 ```
+
+Need Help? [Join Molux Team](https://discord.gg/hfac6StA49)
