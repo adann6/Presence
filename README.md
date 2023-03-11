@@ -1,2 +1,10 @@
-# Presence
-https://discord.gg/hfac6StA49
+# Install
+```
+https://github.com/adann6/Presence.git
+```
+```
+npm install
+```
+```
+main.js
+```
